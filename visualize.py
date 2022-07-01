@@ -3,7 +3,7 @@ import json
 
 img = Image.open("data/train_0.jpg")
 drw = ImageDraw.Draw(img)
-data = json.load(open("data/train.json", "r"))
+data = json.load(open("data/talk2car_expr_train.json", "r"))
 
 for command_token, obj_data in data.items():
     if "train_0.jpg" == obj_data["img"]:
