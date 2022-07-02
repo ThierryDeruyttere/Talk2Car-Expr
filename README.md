@@ -1,4 +1,4 @@
-This the official repository of the Talk2Car-Expr dataset, an **extension** on the [Talk2Car](https://github.com/ThierryDeruyttere/Talk2Car) dataset, which is built on [nuScenes](https://www.nuscenes.org/).
+This the official repository of the Talk2Car-Expr dataset, an **extension** on the [Talk2Car](https://github.com/talk2car/Talk2Car) dataset, which is built on [nuScenes](https://www.nuscenes.org/).
 This dataset adds attributes and referring expressions to the referred objects in Talk2Car.
 
 # Data format
