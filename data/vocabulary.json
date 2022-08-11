@@ -1,0 +1,3 @@
+{"action_voc": ["standing", "driving", "not applicable", "walking", "parked", "sitting", "stopped", "braking", "turning", "biking", "running"],
+ "location_voc": ["left", "in front", "right"],
+ "color_voc": ["black", "white", "red", "gray", "yellow", "blue", "maroon", "beige", "orange", "brown", "green", "pink"]}
